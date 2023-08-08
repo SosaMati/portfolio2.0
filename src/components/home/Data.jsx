@@ -3,7 +3,7 @@
 const Data = () => {
   return (
     <div className="home__data">
-      <h1 className="home__title">Matías Sosa
+      <h1 className="home__title animate__animated animate__pulse">Matías Sosa
          <svg
           width="36"
           height="36"

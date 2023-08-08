@@ -35,6 +35,13 @@
   column-gap: 0.5rem;
 }
 
+.skills__icon {
+  font-size: 2rem;
+  color: var(--title-color);
+  display: flex;
+  justify-content: center;
+}
+
 .skills .bx-badge-check {
   font-size: 1rem;
   color: var(--title-color)

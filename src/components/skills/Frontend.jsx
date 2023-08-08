@@ -9,7 +9,7 @@ const Frontend = () => {
         <div className="skills__group">
 
           <div className="skills__data">
-            <i className='bx bx-badge-check'></i>
+          <i className='skills__icon bx bxl-html5'></i>
             <div>
               <h3 className="skills__name">HTML</h3>
               <span className="skills__level">Intermediate</span>
@@ -17,7 +17,7 @@ const Frontend = () => {
           </div>
 
           <div className="skills__data">
-            <i className='bx bx-badge-check'></i>
+          <i className='skills__icon bx bxl-css3' ></i>
             <div>
               <h3 className="skills__name">CSS</h3>
               <span className="skills__level">Intermediate</span>
@@ -25,7 +25,7 @@ const Frontend = () => {
           </div>
 
           <div className="skills__data">
-            <i className='bx bx-badge-check'></i>
+          <i className='skills__icon bx bxl-javascript'></i>
             <div>
               <h3 className="skills__name">JavaScript</h3>
               <span className="skills__level">Intermediate</span>
@@ -46,7 +46,7 @@ const Frontend = () => {
           </div>
 
           <div className="skills__data">
-            <i className='bx bx-badge-check'></i>
+          <i className=" skills__icon uil uil-react"></i>
             <div>
               <h3 className="skills__name">React</h3>
               <span className="skills__level">Intermediate</span>
@@ -54,7 +54,7 @@ const Frontend = () => {
           </div>
 
           <div className="skills__data">
-            <i className='bx bx-badge-check'></i>
+          <i className=' skills__icon bx bxl-github'></i>
             <div>
               <h3 className="skills__name">Git</h3>
               <span className="skills__level">Intermediate</span>

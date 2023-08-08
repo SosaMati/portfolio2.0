@@ -180,21 +180,44 @@ img {
     height: 22px;
   }
 }
+
+
 /*For medium devices*/
 @media screen and (max-width: 768px) {
   body {
     margin: 0 0 var(--header-height) 0;
   }
-
+  
   .section {
     padding: 2rem 0 4rem;
   }
-
+  
   .section__subtitle {
     margin-bottom: var(--mb-3);
   }
 }
 @media screen and (max-width: 576px) {
+  @keyframes show {
+    from {
+      opacity: 0;
+      scale: 25%;
+    }
+    to {
+      opacity: 1;
+      scale: 100%;
+    }
+  }
+  
+  img {
+    view-timeline-name: --image;
+    view-timeline-axis: block;
+  
+    animation-timeline: --image;
+    animation-name:show;
+  
+    animation-range: entry 25% cover 30%;
+    animation--fill-mode: both;
+  }
 
 }
 /*For small devices*/
