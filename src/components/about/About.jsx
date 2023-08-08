@@ -15,7 +15,7 @@ const About = () => {
         <div className="about__data">
           <Info />
 
-          <p className="about__description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum minima nemo explicabo aut a. Quod commodi exercitationem, magni quis at laudantium est fugiat, atque corrupti ipsum laborum ex delectus consequuntur.</p>
+          <p className="about__description">Comencé mi viaje educativo con una tecnicatura en programación, estableciendo una base sólida en los fundamentos. A lo largo de mi carrera, he ampliado mis conocimientos a través de diversos cursos especializados, mientras que mi enfoque autodidacta me ha permitido abordar desafíos con creatividad.</p>
 
           <a href="https://www.canva.com/design/DAEo4LWsASs/7aF5F49495bUy1PgDnFNQw/view?" target='_blank' rel='noopener noreferrer' className="button button--flex">Download CV
           <svg
