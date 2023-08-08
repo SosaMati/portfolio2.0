@@ -48,10 +48,10 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Development</h3>
-                <span className="qualification__subtitle">Spain - Institute</span>
+                <h3 className="qualification__title">React: De cero a experto ( Hooks y MERN )</h3>
+                <span className="qualification__subtitle">Udemy - Fernando Herrera</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2018 - 2020
+                  <i className="uil uil-calendar-alt"></i> Julio 2022
                 </div>
               </div>
 
@@ -68,20 +68,20 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Art Director</h3>
-                <span className="qualification__subtitle">Spain - Institute</span>
+                <h3 className="qualification__title">Full Stack JavaScript / Node.JS </h3>
+                <span className="qualification__subtitle">Codo a Codo (4.0)</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2020 - 2021
+                  <i className="uil uil-calendar-alt"></i> Julio 2022
                 </div>
               </div>
 
             </div>
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Design</h3>
-                <span className="qualification__subtitle">Spain - Institute</span>
+                <h3 className="qualification__title">Técnico Superior en Programación</h3>
+                <span className="qualification__subtitle">Teclab - Instituto Técnico Superior</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2021 - Present
+                  <i className="uil uil-calendar-alt"></i> Octubre 2022
                 </div>
               </div>
 
@@ -98,10 +98,10 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Art Director</h3>
-                <span className="qualification__subtitle">Spain - Institute</span>
+                <h3 className="qualification__title">Especialización en React</h3>
+                <span className="qualification__subtitle">Codo a Codo (4.0)</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2020 - 2021
+                  <i className="uil uil-calendar-alt"></i> Diciembre 2022
                 </div>
               </div>
 
