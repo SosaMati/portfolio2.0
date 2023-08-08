@@ -1,4 +1,4 @@
-import './scrollUp.css'
+import './scrollup.css'
 
 const ScrollUp = () => {
   window.addEventListener('scroll', function () {
