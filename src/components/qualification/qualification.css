@@ -1,5 +1,5 @@
 .qualification__container {
-  max-width: 768px;
+  max-width: 1500px;
 }
 
 .qualification__sections {
@@ -59,14 +59,12 @@
     margin-left: var(--mb-1-5);
     margin-right: var(--mb-1-5);
   }
-}
-@media screen and (max-width: 576px) {
   .qualification__sections {
     grid-template-columns: initial;
   }
-  .qualification__button {
-    margin: 0 var(--mb-0-75);
-  }
+}
+@media screen and (max-width: 576px) {
+
 }
 /*For small devices*/
 @media screen and (max-width: 350px) {
